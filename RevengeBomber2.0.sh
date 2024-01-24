@@ -35,12 +35,12 @@ banner() {
                  figlet RevengeBomber2.0
     fi
     if ! [ -x "$(command -v toilet)" ]; then
-        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mAlex Bieber \e[0m"
+        echo -e "\e[4;34m This Bomber Was Created By \e[1;32mSparrow \e[0m"
     else
         echo -e "\e[1;34mCreated By \e[1;34m"
-        figlet Alex Bieber
-    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   AlexBieber	    \033[1;93m[\033[1;77m::\033[1;93m]"
-	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mmodify code by : \033[1;97m Alex Bieber \033[1;93m[\033[1;77m::\033[1;93m]\n"
+        figlet Jack Sparrow
+    printf "\033[1;93m[\033[1;77m::\033[1;93m]	    \033[1;92m   Code by : \033[1;97m   Sparrow	    \033[1;93m[\033[1;77m::\033[1;93m]"
+	printf "\n\033[1;93m[\033[1;77m::\033[1;93m]	\033[1;92mmodify code by : \033[1;97m JAck Sparrow \033[1;93m[\033[1;77m::\033[1;93m]\n"
     echo " "
     echo " "
     echo -e            *Requirements:*
@@ -117,8 +117,8 @@ do
     banner
     
     echo " "
-    echo -e "'\033[1;31m                           ⫸ Coded by\033[1;32m AlexBieber\033[1;31m ⫷\033[0m"
-    echo -e "'\033[1;31m                         ⫸\033[1;33m Alex Bieber\033[1;31m ⫷\033[0m"
+    echo -e "'\033[1;31m                           ⫸ Coded by\033[1;32m Sparrow\033[1;31m ⫷\033[0m"
+    echo -e "'\033[1;31m                         ⫸\033[1;33m Sparrow\033[1;31m ⫷\033[0m"
     echo 
     echo -e "'\033[1;36m############################# \033[1;32m [Features] \033[1;36m ###################################"
 echo " "
